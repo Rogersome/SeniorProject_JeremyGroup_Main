@@ -1287,17 +1287,3 @@ class AllTrip:
         """
     )
     conn.commit()
-
-    # insert to Trip01 Table
-    cur.execute(
-        """
-        INSERT INTO Trip01
-        VALUES()
-        """,
-        (
-            {
-
-            }
-        )
-    )
-    conn.commit()
