@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c020c224-f25b-434e-ba5c-baccc8f25622" name="Changes" comment="v1.1">
+      <change afterPath="$PROJECT_DIR$/../Draft1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rename.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Measurement Data.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data_Processing_Beta3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Overview.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TripA01.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TripA02.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TripA03.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TripA04.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TripA05.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TripA06.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TripA07.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TripA08.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TripA09.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TripA10.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TripA11.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TripA12.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TripA13.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TripA14.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TripA15.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TripA16.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TripA17.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TripA18.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TripA19.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TripA20.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TripA21.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TripA22.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TripA23.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TripA24.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TripA25.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TripA26.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TripA27.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TripA28.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TripA29.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TripA30.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TripA31.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TripA32.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TripB01.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TripB02.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TripB03.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TripB04.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TripB05.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TripB06.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TripB07.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TripB08.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TripB09.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TripB10.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TripB11.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TripB12.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TripB13.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TripB14.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TripB15.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TripB16.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TripB17.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TripB18.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TripB19.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TripB20.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TripB21.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TripB22.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TripB23.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TripB24.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TripB25.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TripB26.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TripB27.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TripB28.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TripB29.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TripB30.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TripB31.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TripB32.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TripB33.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TripB34.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TripB35.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TripB36.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TripB37.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TripB38.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trips_A.DB" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/readin.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simulation Data/0_Charging_CAN.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simulation Data/0_Charging_CAN.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simulation Data/0_Charging_LIN.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simulation Data/0_Charging_LIN.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simulation Data/0_Heating_CAN.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simulation Data/0_Heating_CAN.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simulation Data/0_Heating_LIN.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simulation Data/0_Heating_LIN.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simulation Data/0_Mixed_CAN.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simulation Data/0_Mixed_CAN.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simulation Data/0_Mixed_LIN.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simulation Data/0_Mixed_LIN.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simulation Data/0_Standard_CAN.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simulation Data/0_Standard_CAN.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simulation Data/0_Standard_LIN.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simulation Data/0_Standard_LIN.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simulation Data/Neg10_Charging_CAN.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simulation Data/Neg10_Charging_CAN.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simulation Data/Neg10_Charging_LIN.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simulation Data/Neg10_Charging_LIN.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simulation Data/Neg10_Heating_CAN.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simulation Data/Neg10_Heating_CAN.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simulation Data/Neg10_Heating_LIN.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simulation Data/Neg10_Heating_LIN.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simulation Data/Neg10_Mixed_CAN.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simulation Data/Neg10_Mixed_CAN.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simulation Data/Neg10_Mixed_LIN.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simulation Data/Neg10_Mixed_LIN.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simulation Data/Neg10_Standard_CAN.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simulation Data/Neg10_Standard_CAN.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simulation Data/Neg10_Standard_LIN.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simulation Data/Neg10_Standard_LIN.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simulation Data/Pos10_Charging_CAN.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simulation Data/Pos10_Charging_CAN.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simulation Data/Pos10_Charging_LIN.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simulation Data/Pos10_Charging_LIN.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simulation Data/Pos10_Heating_CAN.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simulation Data/Pos10_Heating_CAN.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simulation Data/Pos10_Heating_LIN.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simulation Data/Pos10_Heating_LIN.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simulation Data/Pos10_Mixed_CAN.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simulation Data/Pos10_Mixed_CAN.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simulation Data/Pos10_Mixed_LIN.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simulation Data/Pos10_Mixed_LIN.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simulation Data/Pos10_Standard_CAN.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simulation Data/Pos10_Standard_CAN.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simulation Data/Pos10_Standard_LIN.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simulation Data/Pos10_Standard_LIN.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simulation Data/readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Trips_A.DB" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Rb22pIjw8QRwMmq6ORHFhyIiAa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/MCU/Project/Project_Main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\MCU\Project\Dataset\BMW i3\Measurement Data" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Data_Processing_Beta3">
+    <configuration name="Data_Processing_Beta" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Measurement Data" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data_Processing_Beta.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Data_Processing_Beta2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Measurement Data" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data_Processing_Beta2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Data_Processing_Beta3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Measurement Data" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data_Processing_Beta3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Data_Processing_Beta3" />
+        <item itemvalue="Python.Data_Processing_Beta2" />
+        <item itemvalue="Python.Data_Processing_Beta" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c020c224-f25b-434e-ba5c-baccc8f25622" name="Changes" comment="" />
+      <created>1687504260899</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687504260899</updated>
+      <workItem from="1687504262623" duration="8058000" />
+      <workItem from="1687942164418" duration="614000" />
+      <workItem from="1688094283052" duration="639000" />
+      <workItem from="1689140905211" duration="3159000" />
+      <workItem from="1689587505657" duration="2529000" />
+      <workItem from="1691112292333" duration="672000" />
+      <workItem from="1695297074432" duration="847000" />
+    </task>
+    <task id="LOCAL-00001" summary="v1.1">
+      <created>1691112361456</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1691112361456</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="v1.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="v1.1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Measurement_Data$Data_Processing_Beta2.coverage" NAME="Data_Processing_Beta2 Coverage Results" MODIFIED="1687513663486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Measurement_Data$Data_Processing_Beta3.coverage" NAME="Data_Processing_Beta3 Coverage Results" MODIFIED="1689589106151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Measurement_Data$Data_Processing_Beta.coverage" NAME="Data_Processing_Beta Coverage Results" MODIFIED="1687510498036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
